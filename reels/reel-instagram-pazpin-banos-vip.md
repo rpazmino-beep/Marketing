@@ -267,9 +267,11 @@ Súbelas a `reels/fotos/` y se incrustan sin tocar el resto del reel.
 ### Derecho de imagen
 
 La foto de la escena 2 muestra personas reconocibles en un evento
-público, entre ellas menores de edad. Antes de publicarla como pieza
-publicitaria conviene tener la autorización de las personas que
-aparecen — en el caso de los menores, de sus padres o tutores.
+público, entre ellas menores de edad. **Paz-Pin confirma que el uso
+publicitario está autorizado** (registrado el 20-08-2026).
+
+Si a futuro se reutiliza esta foto en otra pieza, conviene tener a mano
+el respaldo escrito de esas autorizaciones.
 
 ---
 
