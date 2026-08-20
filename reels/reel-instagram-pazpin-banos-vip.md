@@ -59,8 +59,9 @@ Tiempos cuadrados a **100 BPM**: el beat cae cada 0,6 s y el compás cada
 En la escena 4 los cuatro ítems entran de a uno cada 1,2 s (cada dos
 beats). En la escena 5, los cuatro puntos eco entran igual.
 
-> **Nota:** en la escena 7 falta solo el usuario de Instagram; el WhatsApp,
-> su QR y el correo ya están puestos.
+> **Nota:** la escena 7 ya tiene todos los datos de contacto. Antes de
+> publicar, escanea el QR con la cámara del teléfono para confirmar que
+> abre el chat correcto.
 
 ## 3. Copy de la publicación
 
@@ -79,6 +80,7 @@ beats). En la escena 5, los cuatro puntos eco entran igual.
 > 📍 Región Metropolitana y alrededores
 > 📱 WhatsApp directo: +56 9 6168 8931
 > 📩 administracion@pazpin.cl
+> 📷 @pazpin_sanitarios
 
 ---
 
