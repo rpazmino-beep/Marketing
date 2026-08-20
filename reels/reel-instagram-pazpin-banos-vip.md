@@ -49,11 +49,11 @@ Tiempos cuadrados a **100 BPM**: el beat cae cada 0,6 s y el compás cada
 | # | Entra | Sale | Compases | Imagen | Texto en pantalla |
 |---|---|---|---|---|---|
 | 1 | 0:00.0 | 0:03.6 | 1½ | Tráiler de noche con ambos baños en LED azul | **"Tu evento merece algo mejor que un baño químico."** |
-| 2 | 0:03.6 | 0:07.2 | 1½ | Arriba baño químico desaturado; abajo banda panorámica del tráiler en un evento con público | "Esto…" → "…o esto." |
+| 2 | 0:03.6 | 0:07.2 | 1½ | Arriba ilustración del baño químico en gris; abajo banda panorámica del tráiler en un evento con público | "Esto…" → "…o esto." |
 | 3 | 0:07.2 | 0:09.6 | 1 | Ondas de agua sobre blanco humo | **PAZ-PIN BAÑOS VIP** + rubros |
 | 4 | 0:09.6 | 0:14.4 | 2 | Díptico: lavamanos de mármol + interior con WC y piso flotante | Los 4 ítems de equipamiento, uno por beat |
 | 5 | 0:14.4 | 0:19.2 | 2 | Fondo claro con sello circular verde | **"ECO — 100 % autónomo"** + los 4 puntos |
-| 6 | 0:19.2 | 0:21.6 | 1 | Tráiler enganchado a la camioneta | **"Llegamos, instalamos y nos llevamos todo."** |
+| 6 | 0:19.2 | 0:21.6 | 1 | Gráfica sobre azul marino con los tres pasos | **"Llegamos, instalamos y nos llevamos todo."** |
 | 7 | 0:21.6 | 0:25.2 | 1½ | Azul marino sólido con el logo | **COTIZA TU EVENTO** + WhatsApp e Instagram |
 
 En la escena 4 los cuatro ítems entran de a uno cada 1,2 s (cada dos
@@ -239,25 +239,37 @@ reels, que a la larga construye identidad sonora.
 
 ## 5. Fotos
 
-1. ✅ **Ya incrustada** en la escena 1: `fotos/trailer 2 wc.jpg`, recortada a
-   9:16 y guardada como `trailer-noche.jpg`. El recorte toma el vano
-   iluminado con el WC, el logo del wrap y las ruedas.
-2. `trailer-dia-parque.jpg` — vertical, wrap con siluetas damas/varones → escenas 3 y 7.
-3. `trailer-camioneta-pasto.jpg` — tráiler enganchado a la camioneta roja → escena 6.
+Las cuatro fotos del reel están incrustadas y el reel está cerrado: no
+falta ninguna.
 
-Faltan por subir:
-- Baño químico básico para la comparación (escena 2, panel superior).
-- Tráiler enganchado a la camioneta (escena 6).
-- Detalle de los escalones antideslizantes (escena 5).
+| Archivo | Escena |
+|---|---|
+| `fotos/trailer 2 wc.jpg` → `trailer-noche.jpg` | 1 · Gancho |
+| `fotos/trailer-evento.jpg` → `trailer-evento.jpg` | 2 · Contraste (banda inferior) |
+| `fotos/lavamanos.jpg` → `lavamanos.jpg` | 4 · Equipamiento (izquierda) |
+| `fotos/interior-wc.jpg` → `interior-wc.jpg` | 4 · Equipamiento (derecha) |
+
+Las escenas 3, 5, 6 y 7 son gráficas, sin foto. El baño químico de la
+escena 2 es una ilustración vectorial en gris: como es el término de
+comparación negativo, dibujarlo plano y desaturado funciona mejor que una
+foto, porque el contraste con la foto a color de abajo se vuelve
+inmediato.
+
+### Si más adelante quieres reemplazar gráfica por foto
+
+Dos escenas ganarían con material real, sin que haga falta rehacerlas:
+
+- **Escena 6**, con el tráiler enganchado a la camioneta.
+- **Escena 5**, con un detalle de los escalones antideslizantes.
+
+Súbelas a `reels/fotos/` y se incrustan sin tocar el resto del reel.
 
 ### Derecho de imagen
 
 La foto de la escena 2 muestra personas reconocibles en un evento
 público, entre ellas menores de edad. Antes de publicarla como pieza
 publicitaria conviene tener la autorización de las personas que
-aparecen — en el caso de los menores, de sus padres o tutores. Si no la
-tienes, avísame y cierro más el encuadre o la reemplazo: hay tomas del
-tráiler sin público que sirven igual para esa escena.
+aparecen — en el caso de los menores, de sus padres o tutores.
 
 ---
 
