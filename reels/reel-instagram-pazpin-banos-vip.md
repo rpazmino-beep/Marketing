@@ -49,7 +49,7 @@ Tiempos cuadrados a **100 BPM**: el beat cae cada 0,6 s y el compás cada
 | # | Entra | Sale | Compases | Imagen | Texto en pantalla |
 |---|---|---|---|---|---|
 | 1 | 0:00.0 | 0:03.6 | 1½ | Tráiler de noche con ambos baños en LED azul | **"Tu evento merece algo mejor que un baño químico."** |
-| 2 | 0:03.6 | 0:07.2 | 1½ | Baño químico desaturado → tráiler instalado en un evento con público | "Esto…" → "…o esto." |
+| 2 | 0:03.6 | 0:07.2 | 1½ | Arriba baño químico desaturado; abajo banda panorámica del tráiler en un evento con público | "Esto…" → "…o esto." |
 | 3 | 0:07.2 | 0:09.6 | 1 | Ondas de agua sobre blanco humo | **PAZ-PIN BAÑOS VIP** + rubros |
 | 4 | 0:09.6 | 0:14.4 | 2 | Díptico: lavamanos de mármol + interior con WC y piso flotante | Los 4 ítems de equipamiento, uno por beat |
 | 5 | 0:14.4 | 0:19.2 | 2 | Fondo claro con sello circular verde | **"ECO — 100 % autónomo"** + los 4 puntos |
