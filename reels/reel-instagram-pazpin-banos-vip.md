@@ -51,7 +51,7 @@ Tiempos cuadrados a **100 BPM**: el beat cae cada 0,6 s y el compás cada
 | 1 | 0:00.0 | 0:03.6 | 1½ | Tráiler de noche con ambos baños en LED azul | **"Tu evento merece algo mejor que un baño químico."** |
 | 2 | 0:03.6 | 0:07.2 | 1½ | Baño químico desaturado → tráiler de día | "Esto…" → "…o esto." |
 | 3 | 0:07.2 | 0:09.6 | 1 | Ondas de agua sobre blanco humo | **PAZ-PIN BAÑOS VIP** + rubros |
-| 4 | 0:09.6 | 0:14.4 | 2 | Interior: WC, lavamanos, espejo, LED | Los 4 ítems de equipamiento, uno por beat |
+| 4 | 0:09.6 | 0:14.4 | 2 | Díptico: lavamanos de mármol + interior con WC y piso flotante | Los 4 ítems de equipamiento, uno por beat |
 | 5 | 0:14.4 | 0:19.2 | 2 | Fondo claro con sello circular verde | **"ECO — 100 % autónomo"** + los 4 puntos |
 | 6 | 0:19.2 | 0:21.6 | 1 | Tráiler enganchado a la camioneta | **"Llegamos, instalamos y nos llevamos todo."** |
 | 7 | 0:21.6 | 0:25.2 | 1½ | Azul marino sólido con el logo | **COTIZA TU EVENTO** + WhatsApp e Instagram |
@@ -166,9 +166,10 @@ reels, que a la larga construye identidad sonora.
    iluminado con el WC, el logo del wrap y las ruedas.
 2. `trailer-dia-parque.jpg` — vertical, wrap con siluetas damas/varones → escenas 3 y 7.
 3. `trailer-camioneta-pasto.jpg` — tráiler enganchado a la camioneta roja → escena 6.
-4. `bano-quimico-azul.jpg` — baño químico básico → escena 2 (comparación).
 
-Faltan por tomar, si se quiere reforzar el reel:
-- Interior completo del baño con luz encendida (escena 4).
-- Detalle del lavamanos con agua corriendo (escena 4).
+Faltan por subir:
+- Tráiler de día, plano lateral (escena 2 y 3) — la foto vertical del
+  parque calza casi sin recorte.
+- Baño químico básico para la comparación (escena 2).
+- Tráiler enganchado a la camioneta (escena 6).
 - Detalle de los escalones antideslizantes (escena 5).

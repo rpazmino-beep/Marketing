@@ -13,16 +13,17 @@ Sube aquí las fotos del tráiler para incrustarlas en las escenas del reel.
 Sirve cualquier formato normal de cámara o teléfono: `.jpg`, `.jpeg`,
 `.png` o `.heic`. No hace falta que la achiques — de eso me encargo yo.
 
-## Nombres esperados
+## Ya subidas
 
-Con uno basta para empezar; el prioritario es el primero.
+- `trailer 2 wc.jpg` → escena 1
+- `lavamanos.jpg` y `interior-wc.jpg` → escena 4
+
+## Faltan
 
 | Archivo | Escena | Qué debe mostrar |
 |---|---|---|
 | `trailer-dia-parque.jpg` | 2 · Contraste | Tráiler de día, plano lateral completo con el wrap visible |
 | `bano-quimico.jpg` | 2 · Contraste | Baño químico azul básico, para la comparación |
-| `lavamanos.jpg` | 4 · Equipamiento (izq.) | Lavamanos: cubierta de mármol, grifería cromada, detalles |
-| `interior-wc.jpg` | 4 · Equipamiento (der.) | Interior: WC y piso flotante |
 | `trailer-camioneta.jpg` | 6 · Logística | Tráiler enganchado a la camioneta, listo para trasladar |
 
 Si el nombre te queda distinto no importa: cualquier imagen que aparezca
