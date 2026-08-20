@@ -277,14 +277,20 @@ el respaldo escrito de esas autorizaciones.
 
 ## 6. Cómo montarlo y subirlo a Instagram
 
-### Paso 1 — Exportar las escenas
+### Paso 1 — Las escenas ya están exportadas
 
-En el lienzo de diseño, botón **Export**. Puedes exportar escena por
-escena o usar **Export all**. Salen en PNG a 1080 × 1920, que es
-exactamente la resolución del reel.
+Están en `reels/png/`, las siete en PNG a 1080 × 1920, sin las guías de
+zona segura y con las tipografías correctas incrustadas:
 
-Antes de exportar, apaga el interruptor **guides** de cada escena: las
-líneas punteadas de zona segura son guías de trabajo y no deben quedar
+```
+1-gancho.png        4-equipamiento.png     7-cierre-cta.png
+2-contraste.png     5-sello-eco.png
+3-marca.png         6-logistica.png
+```
+
+Si más adelante editas una escena en el lienzo, vuelve a exportar desde
+ahí con el botón **Export** — acordándote de apagar antes el interruptor
+**guides**, porque esas líneas punteadas son de trabajo y no deben quedar
 en el video.
 
 ### Paso 2 — Montar el video
