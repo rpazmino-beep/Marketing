@@ -49,7 +49,7 @@ Tiempos cuadrados a **100 BPM**: el beat cae cada 0,6 s y el compás cada
 | # | Entra | Sale | Compases | Imagen | Texto en pantalla |
 |---|---|---|---|---|---|
 | 1 | 0:00.0 | 0:03.6 | 1½ | Tráiler de noche con ambos baños en LED azul | **"Tu evento merece algo mejor que un baño químico."** |
-| 2 | 0:03.6 | 0:07.2 | 1½ | Baño químico desaturado → tráiler de día | "Esto…" → "…o esto." |
+| 2 | 0:03.6 | 0:07.2 | 1½ | Baño químico desaturado → tráiler instalado en un evento con público | "Esto…" → "…o esto." |
 | 3 | 0:07.2 | 0:09.6 | 1 | Ondas de agua sobre blanco humo | **PAZ-PIN BAÑOS VIP** + rubros |
 | 4 | 0:09.6 | 0:14.4 | 2 | Díptico: lavamanos de mármol + interior con WC y piso flotante | Los 4 ítems de equipamiento, uno por beat |
 | 5 | 0:14.4 | 0:19.2 | 2 | Fondo claro con sello circular verde | **"ECO — 100 % autónomo"** + los 4 puntos |
@@ -159,7 +159,7 @@ reels, que a la larga construye identidad sonora.
 - **Primer frame:** es la miniatura en la grilla del perfil. Debe ser la
   escena 1 con el tráiler iluminado, no una pantalla de texto.
 
-## 5. Fotos a usar (ya disponibles)
+## 5. Fotos
 
 1. ✅ **Ya incrustada** en la escena 1: `fotos/trailer 2 wc.jpg`, recortada a
    9:16 y guardada como `trailer-noche.jpg`. El recorte toma el vano
@@ -168,8 +168,88 @@ reels, que a la larga construye identidad sonora.
 3. `trailer-camioneta-pasto.jpg` — tráiler enganchado a la camioneta roja → escena 6.
 
 Faltan por subir:
-- Tráiler de día, plano lateral (escena 2 y 3) — la foto vertical del
-  parque calza casi sin recorte.
-- Baño químico básico para la comparación (escena 2).
+- Baño químico básico para la comparación (escena 2, panel superior).
 - Tráiler enganchado a la camioneta (escena 6).
 - Detalle de los escalones antideslizantes (escena 5).
+
+### Derecho de imagen
+
+La foto de la escena 2 muestra personas reconocibles en un evento
+público, entre ellas menores de edad. Antes de publicarla como pieza
+publicitaria conviene tener la autorización de las personas que
+aparecen — en el caso de los menores, de sus padres o tutores. Si no la
+tienes, avísame y cierro más el encuadre o la reemplazo: hay tomas del
+tráiler sin público que sirven igual para esa escena.
+
+---
+
+## 6. Cómo montarlo y subirlo a Instagram
+
+### Paso 1 — Exportar las escenas
+
+En el lienzo de diseño, botón **Export**. Puedes exportar escena por
+escena o usar **Export all**. Salen en PNG a 1080 × 1920, que es
+exactamente la resolución del reel.
+
+Antes de exportar, apaga el interruptor **guides** de cada escena: las
+líneas punteadas de zona segura son guías de trabajo y no deben quedar
+en el video.
+
+### Paso 2 — Montar el video
+
+Usa CapCut (gratis, en teléfono y en computador) o InShot. Cualquiera
+sirve mientras te deje fijar la duración exacta de cada imagen.
+
+1. Proyecto nuevo, proporción **9:16**, resolución **1080 × 1920**,
+   **30 fps**.
+2. Importa las siete PNG y ordénalas del 1 al 7.
+3. Fija la duración de cada una según la tabla de la sección 2:
+
+   | Escena | Duración |
+   |---|---|
+   | 1 · Gancho | 3,6 s |
+   | 2 · Contraste | 3,6 s |
+   | 3 · Marca | 2,4 s |
+   | 4 · Equipamiento | 4,8 s |
+   | 5 · Sello eco | 4,8 s |
+   | 6 · Logística | 2,4 s |
+   | 7 · Cierre | 3,6 s |
+
+4. Transiciones: **corte seco** entre todas, salvo entre la 2 y la 3,
+   donde va un fundido corto de 0,3 s. Nada de transiciones vistosas —
+   restan más de lo que suman.
+5. Movimiento: aplica un zoom lento del 100 % al 105 % a las escenas con
+   foto (1, 2, 4). Una imagen fija en un reel se siente muerta; ese
+   movimiento mínimo basta.
+6. **Exporta sin música.** El audio se pone después, dentro de
+   Instagram, por lo explicado en la sección 4. Formato MP4, H.264,
+   1080 × 1920, 30 fps.
+
+### Paso 3 — Subirlo
+
+1. Instagram → **+** → **Reel** → selecciona el MP4 desde la galería.
+2. **Audio:** toca el ícono de música y elige la pista según los
+   criterios de la sección 4. Ajusta el inicio para que el primer beat
+   caiga en el segundo 0.
+3. **Portada:** toca *Editar portada* y elige el primer frame, el del
+   tráiler iluminado. Es la miniatura que queda en la grilla del perfil,
+   así que no dejes que agarre un frame de texto.
+4. **Descripción:** pega el caption de la sección 3.
+5. **Ubicación:** agrégala siempre. Para un servicio local es de lo que
+   más ayuda a que te encuentre gente de la zona.
+6. **Etiquetas:** si el evento fue de un cliente y te autoriza, etiquétalo.
+7. Deja activado *Compartir en Facebook* si tienes la página vinculada:
+   es alcance gratis.
+8. **Compartir.**
+9. Apenas se publique, pega los hashtags de la sección 3 en el **primer
+   comentario**, no en la descripción.
+
+### Paso 4 — Las primeras horas
+
+- Responde todos los comentarios y DM lo antes posible. La conversación
+  temprana es lo que decide si el reel sigue circulando.
+- Compártelo a tus historias con un sticker de "Ver reel".
+- Fíjate en la retención en *Estadísticas*: si la caída fuerte está antes
+  del segundo 3, el problema es el gancho y hay que cambiar la escena 1.
+
+
