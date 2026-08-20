@@ -19,10 +19,10 @@ Con uno basta para empezar; el prioritario es el primero.
 
 | Archivo | Escena | Qué debe mostrar |
 |---|---|---|
-| `trailer-noche-led.jpg` | 1 · Gancho | Tráiler de noche, puertas abiertas, luz LED azul encendida |
 | `trailer-dia-parque.jpg` | 2 · Contraste | Tráiler de día, plano lateral completo con el wrap visible |
 | `bano-quimico.jpg` | 2 · Contraste | Baño químico azul básico, para la comparación |
-| `interior-bano.jpg` | 4 · Equipamiento | Interior: WC, lavamanos, espejo y luz encendida |
+| `lavamanos.jpg` | 4 · Equipamiento (izq.) | Lavamanos: cubierta de mármol, grifería cromada, detalles |
+| `interior-wc.jpg` | 4 · Equipamiento (der.) | Interior: WC y piso flotante |
 | `trailer-camioneta.jpg` | 6 · Logística | Tráiler enganchado a la camioneta, listo para trasladar |
 
 Si el nombre te queda distinto no importa: cualquier imagen que aparezca
