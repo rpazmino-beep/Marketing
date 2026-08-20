@@ -59,8 +59,8 @@ Tiempos cuadrados a **100 BPM**: el beat cae cada 0,6 s y el compás cada
 En la escena 4 los cuatro ítems entran de a uno cada 1,2 s (cada dos
 beats). En la escena 5, los cuatro puntos eco entran igual.
 
-> **Nota:** reemplazar los marcadores de la escena 7 por el usuario de
-> Instagram y el número de WhatsApp reales antes de publicar.
+> **Nota:** en la escena 7 falta solo el usuario de Instagram; el WhatsApp,
+> su QR y el correo ya están puestos.
 
 ## 3. Copy de la publicación
 
@@ -77,16 +77,92 @@ beats). En la escena 5, los cuatro puntos eco entran igual.
 > del resto.
 >
 > 📍 Región Metropolitana y alrededores
-> 📩 Escríbenos por DM para cotizar tu fecha.
+> 📱 WhatsApp directo: +56 9 6168 8931
+> 📩 administracion@pazpin.cl
 
-**Hashtags (copiar en el primer comentario):**
+---
+
+### Hashtags
+
+Van en el **primer comentario**, no en la descripción: mantienen limpio el
+texto que se ve y funcionan igual. Instagram admite hasta 30; el punto
+óptimo está entre 20 y 25.
+
+La mezcla importa más que la cantidad. Un hashtag de un millón de
+publicaciones te entierra en segundos; uno de mil te deja ver por poca
+gente pero muy interesada. Por eso el set combina los tres tamaños.
+
+**Marca — van siempre, en todas las publicaciones**
 
 ```
-#BañosVIP #BañosParaEventos #ArriendoDeBaños #EventosChile #Matrimonios2026
-#BodasChile #ProduccionDeEventos #BañosQuimicos #EventosSustentables
-#EcoFriendly #FiestasYEventos #SantiagoChile #LaPintana #ServicioParaEventos
-#WeddingPlannerChile
+#PazPinBañosVIP #PazPin
 ```
+
+Un hashtag propio parece inútil al principio porque nadie lo busca. Deja
+de serlo cuando un cliente etiqueta su matrimonio con él: al año tienes
+tu propio archivo público de eventos, y es lo primero que revisa alguien
+que está evaluando contratarte.
+
+**Servicio — de alto volumen, para alcance amplio**
+
+```
+#BañosVIP #BañosParaEventos #ArriendoDeBaños #BañosQuimicos
+#BañosPortatiles #SanitariosMoviles #BañosMoviles
+```
+
+**Ocasión — donde de verdad está tu cliente**
+
+```
+#Matrimonios2026 #BodasChile #MatrimoniosChile #WeddingPlannerChile
+#EventosCorporativos #ProduccionDeEventos #FiestasPatrias
+#EventosAlAireLibre #FeriasYEventos
+```
+
+**Zona — los más rentables para un servicio local**
+
+```
+#SantiagoChile #RegionMetropolitana #LaPintana #PuenteAlto
+#EventosSantiago #ProveedoresDeEventos
+```
+
+**Sustentabilidad — el ángulo que casi nadie usa en este rubro**
+
+```
+#EventosSustentables #EcoFriendly #EventosResponsables
+```
+
+**Set listo para copiar (23 hashtags):**
+
+```
+#PazPinBañosVIP #BañosVIP #BañosParaEventos #ArriendoDeBaños
+#BañosQuimicos #BañosPortatiles #SanitariosMoviles #Matrimonios2026
+#BodasChile #MatrimoniosChile #WeddingPlannerChile #EventosCorporativos
+#ProduccionDeEventos #EventosAlAireLibre #SantiagoChile
+#RegionMetropolitana #LaPintana #PuenteAlto #EventosSantiago
+#ProveedoresDeEventos #EventosSustentables #EcoFriendly
+#EventosResponsables
+```
+
+Rota los de ocasión según la fecha: en enero y febrero pesan los
+matrimonios, en septiembre las fiestas patrias, y en obras y ferias
+conviene cambiar el bloque completo por vocabulario de construcción y
+municipalidades.
+
+### Si vas a pagar publicidad, esto cambia
+
+En un anuncio pagado de Meta los hashtags **no aportan alcance**: el
+público lo define la segmentación que tú configuras, no las etiquetas. Si
+promocionas este reel, deja uno o dos de marca por consistencia visual y
+concentra el esfuerzo en lo que sí decide el resultado:
+
+- **Ubicación:** radio de 30–40 km alrededor de donde puedes llegar con el
+  tráiler. Es la variable que más rinde para un servicio con traslado.
+- **Público:** intereses de bodas, planificación de eventos, organización
+  de fiestas; y por separado, cargos de administración municipal y
+  construcción para la línea de obras.
+- **Objetivo:** mensajes a WhatsApp, no "interacción". Te interesan
+  conversaciones, no likes.
+- **Destino:** el mismo enlace del QR, `wa.me/56961688931`.
 
 **Texto de portada (cover del reel):** "Baños VIP para tu evento" sobre la
 foto nocturna con LED azul.
