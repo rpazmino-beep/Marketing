@@ -106,7 +106,9 @@ foto nocturna con LED azul.
 
 ## 5. Fotos a usar (ya disponibles)
 
-1. `trailer-noche-led.jpg` — tráiler de noche, puertas abiertas, LED azul → escenas 1 y 8 (fondo).
+1. ✅ **Ya incrustada** en la escena 1: `fotos/trailer 2 wc.jpg`, recortada a
+   9:16 y guardada como `trailer-noche.jpg`. El recorte toma el vano
+   iluminado con el WC, el logo del wrap y las ruedas.
 2. `trailer-dia-parque.jpg` — vertical, wrap con siluetas damas/varones → escenas 3 y 7.
 3. `trailer-camioneta-pasto.jpg` — tráiler enganchado a la camioneta roja → escena 6.
 4. `bano-quimico-azul.jpg` — baño químico básico → escena 2 (comparación).
