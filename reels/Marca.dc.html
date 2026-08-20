@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@600;800&family=Archivo:wght@400;500;600&family=Yellowtail&display=swap">
+  <style>
+    body { margin: 0; font-family: Archivo, "Helvetica Neue", Arial, sans-serif; }
+    a { color: #12356B; } a:hover { color: #3FA9DC; }
+  </style>
+</helmet>
+
+<div style="position: relative; width: 1080px; height: 1920px; overflow: hidden; background: #F4F8FB; color: #12356B;">
+
+  <svg style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);" width="1500" height="1500" viewBox="0 0 1500 1500" fill="none" stroke="#3FA9DC" stroke-width="2.5" opacity="0.42">
+    <ellipse cx="750" cy="750" rx="150" ry="52"/>
+    <ellipse cx="750" cy="750" rx="270" ry="94"/>
+    <ellipse cx="750" cy="750" rx="400" ry="139"/>
+    <ellipse cx="750" cy="750" rx="540" ry="188"/>
+    <ellipse cx="750" cy="750" rx="690" ry="240"/>
+  </svg>
+
+  <svg style="position: absolute; right: -120px; top: 120px;" width="620" height="620" viewBox="0 0 100 100" fill="none" stroke="#8CC63F" stroke-width="1.6" opacity="0.5">
+    <path d="M18 84C18 46 44 20 84 16c4 40-22 66-60 68z"/>
+    <path d="M84 16C60 40 40 60 22 82"/>
+  </svg>
+
+  <div style="position: absolute; left: 84px; right: 84px; top: 560px; display: flex; flex-direction: column; align-items: center; gap: 34px; text-align: center;">
+    <div style="font-family: Yellowtail, 'Brush Script MT', cursive; font-size: 190px; line-height: 1; color: #12356B;">Paz - Pin</div>
+    <div style="font-family: Sora, Archivo, sans-serif; font-weight: 800; font-size: 76px; letter-spacing: .16em; text-transform: uppercase; color: #8CC63F;">Baños VIP</div>
+    <div style="width: 180px; height: 5px; background: #3FA9DC; border-radius: 3px;"></div>
+    <p style="margin: 0; font-size: 46px; line-height: 1.4; font-weight: 500; color: #2C4E82; max-width: 780px; text-wrap: balance;">Tráileres de baños de lujo para matrimonios, empresas, ferias y obras.</p>
+  </div>
+
+  <div style="position: absolute; left: 84px; right: 84px; bottom: 470px; display: flex; justify-content: center; gap: 22px; flex-wrap: wrap;">
+    <span style="border: 3px solid #12356B; border-radius: 999px; padding: 18px 38px; font-size: 32px; font-weight: 600; letter-spacing: .06em;">Matrimonios</span>
+    <span style="border: 3px solid #12356B; border-radius: 999px; padding: 18px 38px; font-size: 32px; font-weight: 600; letter-spacing: .06em;">Empresas</span>
+    <span style="border: 3px solid #12356B; border-radius: 999px; padding: 18px 38px; font-size: 32px; font-weight: 600; letter-spacing: .06em;">Ferias</span>
+    <span style="border: 3px solid #12356B; border-radius: 999px; padding: 18px 38px; font-size: 32px; font-weight: 600; letter-spacing: .06em;">Obras</span>
+    <span style="border: 3px solid #12356B; border-radius: 999px; padding: 18px 38px; font-size: 32px; font-weight: 600; letter-spacing: .06em;">Municipalidades</span>
+  </div>
+
+  <sc-if value="{{guides}}" hint-placeholder-val="{{true}}">
+    <div style="position: absolute; inset: 0; pointer-events: none;">
+      <div style="position: absolute; left: 0; right: 0; top: 250px; border-top: 2px dashed rgba(63,169,220,.85);"></div>
+      <div style="position: absolute; left: 0; right: 0; bottom: 420px; border-top: 2px dashed rgba(63,169,220,.85);"></div>
+    </div>
+  </sc-if>
+
+</div>
+</x-dc>
+<script data-dc-script data-props='{"guides":{"editor":"boolean","default":false},"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { guides: this.props.guides ?? false };
+  }
+}
+</script>
+</body>
+</html>

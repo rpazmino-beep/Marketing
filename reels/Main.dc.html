@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@600;800&family=Archivo:wght@400;500;600&display=swap">
+  <style>
+    body { margin: 0; font-family: Archivo, "Helvetica Neue", Arial, sans-serif; }
+    a { color: #8CC63F; } a:hover { color: #A8DB63; }
+    .ph { background-color: #0B2144; background-image: repeating-linear-gradient(45deg, rgba(63,169,220,.10) 0 22px, rgba(63,169,220,0) 22px 44px); }
+  </style>
+</helmet>
+
+<div style="position: relative; width: 1080px; height: 1920px; overflow: hidden; background: #0B2144; color: #F4F8FB;">
+
+  <div class="ph" style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 18px; opacity: .55;">
+      <svg width="72" height="72" viewBox="0 0 24 24" fill="none" stroke="#3FA9DC" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8.5A2.5 2.5 0 0 1 5.5 6h1.7l1.3-2h6.9l1.3 2h1.8A2.5 2.5 0 0 1 21 8.5v9A2.5 2.5 0 0 1 18.5 20h-13A2.5 2.5 0 0 1 3 17.5z"/><circle cx="12" cy="13" r="4"/></svg>
+      <div style="font-size: 30px; letter-spacing: .18em; text-transform: uppercase; color: #3FA9DC;">Foto 01</div>
+      <div style="font-size: 26px; color: #9DC4E4; text-align: center; max-width: 620px; line-height: 1.45;">Tráiler de noche, puertas abiertas, luz LED azul</div>
+    </div>
+  </div>
+
+  <div style="position: absolute; left: 0; right: 0; bottom: 0; height: 1180px; background: linear-gradient(to top, #071634 0%, rgba(7,22,52,.94) 34%, rgba(7,22,52,.55) 66%, rgba(7,22,52,0) 100%);"></div>
+
+  <svg style="position: absolute; left: -220px; top: 210px; opacity: .35;" width="900" height="900" viewBox="0 0 900 900" fill="none" stroke="#3FA9DC" stroke-width="2">
+    <ellipse cx="450" cy="450" rx="180" ry="62"/><ellipse cx="450" cy="450" rx="290" ry="100"/><ellipse cx="450" cy="450" rx="400" ry="138"/>
+  </svg>
+
+  <div style="position: absolute; left: 84px; right: 84px; bottom: 470px; display: flex; flex-direction: column; gap: 40px;">
+    <div style="display: flex; align-items: center; gap: 18px;">
+      <span style="width: 64px; height: 5px; background: #8CC63F; border-radius: 3px;"></span>
+      <span style="font-size: 30px; font-weight: 600; letter-spacing: .26em; text-transform: uppercase; color: #8CC63F;">Baños VIP para eventos</span>
+    </div>
+    <h1 style="margin: 0; font-family: Sora, Archivo, sans-serif; font-weight: 800; font-size: 118px; line-height: 0.96; letter-spacing: -0.03em; text-transform: uppercase; text-wrap: balance;">
+      Tu evento<br>merece algo<br><span style="color: #8CC63F;">mejor</span> que un<br>baño químico
+    </h1>
+  </div>
+
+  <sc-if value="{{guides}}" hint-placeholder-val="{{true}}">
+    <div style="position: absolute; inset: 0; pointer-events: none;">
+      <div style="position: absolute; left: 0; right: 0; top: 250px; border-top: 2px dashed rgba(140,198,63,.75);"></div>
+      <div style="position: absolute; left: 0; right: 0; bottom: 420px; border-top: 2px dashed rgba(140,198,63,.75);"></div>
+      <div style="position: absolute; left: 20px; top: 262px; font-size: 22px; color: #8CC63F; letter-spacing: .12em;">ZONA SEGURA ↓</div>
+      <div style="position: absolute; left: 20px; bottom: 380px; font-size: 22px; color: #8CC63F; letter-spacing: .12em;">↑ ZONA SEGURA</div>
+    </div>
+  </sc-if>
+
+</div>
+</x-dc>
+<script data-dc-script data-props='{"guides":{"editor":"boolean","default":false},"$preview":{"width":1080,"height":1920}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { guides: this.props.guides ?? false };
+  }
+}
+</script>
+</body>
+</html>
