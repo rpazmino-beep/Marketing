@@ -293,35 +293,20 @@ ahí con el botón **Export** — acordándote de apagar antes el interruptor
 **guides**, porque esas líneas punteadas son de trabajo y no deben quedar
 en el video.
 
-### Paso 2 — Montar el video
+### Paso 2 — El video ya está montado
 
-Usa CapCut (gratis, en teléfono y en computador) o InShot. Cualquiera
-sirve mientras te deje fijar la duración exacta de cada imagen.
+`reels/reel-pazpin-banos-vip.mp4` — 25,20 s, 1080 × 1920, 30 fps, H.264,
+3,3 MB. Lleva las duraciones exactas de la tabla de arriba, corte seco
+entre todas las escenas salvo el fundido de 0,3 s entre la 2 y la 3, y
+zoom lento del 100 % al 105 % en las escenas con foto (1, 2 y 4).
 
-1. Proyecto nuevo, proporción **9:16**, resolución **1080 × 1920**,
-   **30 fps**.
-2. Importa las siete PNG y ordénalas del 1 al 7.
-3. Fija la duración de cada una según la tabla de la sección 2:
+**Va sin música**, a propósito: el audio se pone dentro de Instagram, por
+lo explicado en la sección 4. Sí lleva una pista de silencio, porque la
+app a veces rechaza videos sin ninguna pista de sonido.
 
-   | Escena | Duración |
-   |---|---|
-   | 1 · Gancho | 3,6 s |
-   | 2 · Contraste | 3,6 s |
-   | 3 · Marca | 2,4 s |
-   | 4 · Equipamiento | 4,8 s |
-   | 5 · Sello eco | 4,8 s |
-   | 6 · Logística | 2,4 s |
-   | 7 · Cierre | 3,6 s |
-
-4. Transiciones: **corte seco** entre todas, salvo entre la 2 y la 3,
-   donde va un fundido corto de 0,3 s. Nada de transiciones vistosas —
-   restan más de lo que suman.
-5. Movimiento: aplica un zoom lento del 100 % al 105 % a las escenas con
-   foto (1, 2, 4). Una imagen fija en un reel se siente muerta; ese
-   movimiento mínimo basta.
-6. **Exporta sin música.** El audio se pone después, dentro de
-   Instagram, por lo explicado en la sección 4. Formato MP4, H.264,
-   1080 × 1920, 30 fps.
+Si quieres rehacerlo tras editar alguna escena, los parámetros son:
+proyecto 9:16 a 1080 × 1920 y 30 fps, las duraciones de la tabla, cortes
+secos, y exportar en MP4 H.264 sin música.
 
 ### Paso 3 — Subirlo
 
