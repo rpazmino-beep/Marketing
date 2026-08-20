@@ -2,7 +2,7 @@
 ### Concepto: "Lujo que cuida el planeta" · Estilo moderno + ecológico
 
 - **Formato:** 9:16 vertical · 1080 × 1920 px
-- **Duración:** 22–25 s (rango óptimo de retención para Reels)
+- **Duración:** 25,2 s a 100 BPM (rango óptimo de retención para Reels)
 - **Idioma:** español (Chile)
 - **Objetivo:** generar consultas de cotización por DM/WhatsApp para arriendo
   de baños VIP en eventos.
@@ -43,21 +43,24 @@
 
 ## 2. Guion escena por escena
 
-| # | Tiempo | Imagen | Texto en pantalla | Audio / acción |
-|---|---|---|---|---|
-| 1 | 0.0–2.5 s | Tráiler de noche con puertas abiertas y luz LED azul (foto nocturna) | **"Tu evento merece algo mejor que un baño químico."** | Beat de entrada. Zoom-in lento 5 %. |
-| 2 | 2.5–4.0 s | Corte rápido: baño químico azul básico, desaturado | "Esto…" (texto chico, gris) | Golpe seco de audio, corte duro. |
-| 3 | 4.0–7.0 s | Tráiler de día en el parque, plano completo lateral | "…o esto." → luego **PAZ-PIN BAÑOS VIP** | Transición con onda de agua. Color saturado, sube el brillo. |
-| 4 | 7.0–11.0 s | Interior: WC, lavamanos, espejo, iluminación LED | Lista que aparece línea por línea:<br>· Agua corriente y lavamanos<br>· Iluminación LED interior<br>· Ventilación y espejo<br>· Unidades separadas damas / varones | Cada ítem entra con un tick suave. |
-| 5 | 11.0–15.0 s | Detalle de escalones antideslizantes y puertas | Sello circular verde: **"ECO — 100 % autónomo"**<br>· Sin conexión a alcantarillado<br>· Bajo consumo de agua por descarga<br>· Insumos biodegradables<br>· Retiro y disposición responsable de residuos | Fondo blanco humo, acento verde lima. |
-| 6 | 15.0–18.5 s | Tráiler enganchado a la camioneta en el pasto | **"Llegamos, instalamos y nos llevamos todo."** | Movimiento lateral, sensación de traslado. |
-| 7 | 18.5–21.0 s | Plano general del tráiler en el parque, hora dorada | "Matrimonios · Empresas · Ferias · Obras · Municipalidades" | Texto en carrusel horizontal rápido. |
-| 8 | 21.0–25.0 s | Fondo azul marino sólido con logo centrado | **COTIZA TU EVENTO**<br>@____________ · +56 9 ____ ____<br>"Cupos limitados por fecha" | Onda de agua cierra el cuadro. Logo + WhatsApp. |
+Tiempos cuadrados a **100 BPM**: el beat cae cada 0,6 s y el compás cada
+2,4 s. Todos los cortes ocurren sobre un beat. Duración total 25,2 s.
 
-> **Nota:** reemplazar los guiones bajos de la escena 8 por el usuario de
+| # | Entra | Sale | Compases | Imagen | Texto en pantalla |
+|---|---|---|---|---|---|
+| 1 | 0:00.0 | 0:03.6 | 1½ | Tráiler de noche con ambos baños en LED azul | **"Tu evento merece algo mejor que un baño químico."** |
+| 2 | 0:03.6 | 0:07.2 | 1½ | Baño químico desaturado → tráiler de día | "Esto…" → "…o esto." |
+| 3 | 0:07.2 | 0:09.6 | 1 | Ondas de agua sobre blanco humo | **PAZ-PIN BAÑOS VIP** + rubros |
+| 4 | 0:09.6 | 0:14.4 | 2 | Interior: WC, lavamanos, espejo, LED | Los 4 ítems de equipamiento, uno por beat |
+| 5 | 0:14.4 | 0:19.2 | 2 | Fondo claro con sello circular verde | **"ECO — 100 % autónomo"** + los 4 puntos |
+| 6 | 0:19.2 | 0:21.6 | 1 | Tráiler enganchado a la camioneta | **"Llegamos, instalamos y nos llevamos todo."** |
+| 7 | 0:21.6 | 0:25.2 | 1½ | Azul marino sólido con el logo | **COTIZA TU EVENTO** + WhatsApp e Instagram |
+
+En la escena 4 los cuatro ítems entran de a uno cada 1,2 s (cada dos
+beats). En la escena 5, los cuatro puntos eco entran igual.
+
+> **Nota:** reemplazar los marcadores de la escena 7 por el usuario de
 > Instagram y el número de WhatsApp reales antes de publicar.
-
----
 
 ## 3. Copy de la publicación
 
@@ -90,19 +93,71 @@ foto nocturna con LED azul.
 
 ---
 
-## 4. Audio y edición
+## 4. Música y audio
 
-- **Música:** electrónica suave / lo-fi house con beat marcado en el
-  segundo 0 y en el 4 (para los cortes de las escenas 2 y 3). Elegirla
-  desde el catálogo de audios en tendencia de Instagram, no desde una
-  librería externa — el audio de tendencia empuja el alcance.
-- **Cortes:** todos los cambios de escena caen sobre un beat.
-- **Subtítulos:** activados y quemados en el video (la mayoría mira sin
-  sonido). Fuente blanca con sombra suave, nunca sobre el logo.
-- **Primer frame:** debe verse el tráiler iluminado, no una pantalla de
-  texto — el frame 1 es la miniatura en la grilla del perfil.
+### Qué buscar
 
----
+| Parámetro | Valor |
+|---|---|
+| Tempo | 100 BPM (acepta 98–104 sin retocar los cortes) |
+| Género | Deep house / lo-fi house / electrónica melódica suave |
+| Energía | Media, en ascenso. Nada agresivo ni con voz protagónica |
+| Estructura | Beat marcado desde el segundo 0 — sin intro ambiental larga |
+| Duración útil | 26 s |
+
+La referencia de sonido es "hotel boutique", no "fiesta": pad cálido,
+bombo suave y constante, algo de percusión brillante. Evita el trap y el
+reguetón — chocan con el argumento de servicio premium y sereno.
+
+### Elígela dentro de Instagram, no la importes
+
+Esto es lo que más pesa en el alcance: el audio tiene que salir de la
+biblioteca de la propia app, no de un archivo pegado en el video ya
+editado. Instagram solo empuja los reels que usan audio de su catálogo,
+y solo esos aparecen en la página del audio, que es una vía de
+descubrimiento por sí sola.
+
+El camino: crear el reel → **Audio** → buscar por género o abrir
+**Tendencias**. Los audios en tendencia llevan una flecha ↗ junto al
+nombre. Guarda los que sirvan con el ícono de marcador para tenerlos a
+mano la próxima vez.
+
+### La restricción que te vas a encontrar
+
+Las **cuentas de empresa** tienen una biblioteca musical recortada: buena
+parte de la música comercial no aparece, porque las licencias de
+Instagram cubren uso personal y no promoción de un negocio. Si buscas un
+tema conocido y no está, es por eso, no es un error.
+
+Dos salidas:
+
+1. Usa el catálogo que sí te ofrece la cuenta de empresa. Suele tener
+   material instrumental correcto para este tipo de pieza.
+2. Si tu cuenta es de **creador** en vez de empresa, la biblioteca es más
+   amplia. Vale la pena revisar en qué tipo de cuenta estás.
+
+No publiques con música comercial incrustada desde fuera de la app: el
+reel se arriesga a quedar silenciado o bloqueado por derechos, y perderías
+la publicación completa.
+
+### Si necesitas audio libre de derechos
+
+Para importar sin riesgo: Pixabay Music, Uppbeat, Free Music Archive o la
+biblioteca de audio de YouTube, filtrando por house o electrónica y por
+tempo cercano a 100 BPM. Pierdes el empuje del audio en tendencia, pero
+ganas seguridad y puedes reutilizar la misma pista en toda la serie de
+reels, que a la larga construye identidad sonora.
+
+### Mezcla
+
+- **Voz en off:** no lleva. El reel se sostiene con texto.
+- **Volumen:** música al 100 %, sin nada que compita.
+- **Cierre:** fade out en el último medio segundo, sobre la escena 7.
+- **Subtítulos:** activados y quemados en el video — la mayoría lo verá
+  sin sonido, así que el reel tiene que funcionar en silencio. Fuente
+  blanca con sombra suave, nunca sobre el logo.
+- **Primer frame:** es la miniatura en la grilla del perfil. Debe ser la
+  escena 1 con el tráiler iluminado, no una pantalla de texto.
 
 ## 5. Fotos a usar (ya disponibles)
 

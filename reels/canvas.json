@@ -1,12 +1,61 @@
 {
   "artboards": [
-    { "file": "Main.dc.html",         "title": "1 · Gancho — 0:00–0:03",        "x": 0,    "y": 0, "w": 1080, "h": 1920 },
-    { "file": "Contraste.dc.html",    "title": "2 · Contraste — 0:03–0:07",     "x": 1280, "y": 0, "w": 1080, "h": 1920 },
-    { "file": "Marca.dc.html",        "title": "3 · Marca — 0:07–0:10",         "x": 2560, "y": 0, "w": 1080, "h": 1920 },
-    { "file": "Equipamiento.dc.html", "title": "4 · Equipamiento — 0:10–0:15",  "x": 3840, "y": 0, "w": 1080, "h": 1920 },
-    { "file": "Eco.dc.html",          "title": "5 · Sello eco — 0:15–0:19",     "x": 5120, "y": 0, "w": 1080, "h": 1920 },
-    { "file": "Logistica.dc.html",    "title": "6 · Logística — 0:19–0:22",     "x": 6400, "y": 0, "w": 1080, "h": 1920 },
-    { "file": "Cierre.dc.html",       "title": "7 · Cierre / CTA — 0:22–0:25",  "x": 7680, "y": 0, "w": 1080, "h": 1920 }
+    {
+      "file": "Main.dc.html",
+      "title": "1 · Gancho — 0:00.0–0:03.6",
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "file": "Contraste.dc.html",
+      "title": "2 · Contraste — 0:03.6–0:07.2",
+      "x": 1280,
+      "y": 0,
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "file": "Marca.dc.html",
+      "title": "3 · Marca — 0:07.2–0:09.6",
+      "x": 2560,
+      "y": 0,
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "file": "Equipamiento.dc.html",
+      "title": "4 · Equipamiento — 0:09.6–0:14.4",
+      "x": 3840,
+      "y": 0,
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "file": "Eco.dc.html",
+      "title": "5 · Sello eco — 0:14.4–0:19.2",
+      "x": 5120,
+      "y": 0,
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "file": "Logistica.dc.html",
+      "title": "6 · Logística — 0:19.2–0:21.6",
+      "x": 6400,
+      "y": 0,
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "file": "Cierre.dc.html",
+      "title": "7 · Cierre / CTA — 0:21.6–0:25.2",
+      "x": 7680,
+      "y": 0,
+      "w": 1080,
+      "h": 1920
+    }
   ],
   "annotations": [
     {
@@ -14,14 +63,14 @@
       "x": 0,
       "y": -400,
       "w": 620,
-      "text": "REEL PAZ-PIN BAÑOS VIP — 9:16, 1080×1920, 25 s\n\nPaleta: azul marino #12356B · azul agua #3FA9DC · verde lima #8CC63F · blanco humo #F4F8FB\nTipografía: Sora (titulares) + Archivo (texto) + Yellowtail (firma Paz-Pin, reemplazar por el logo real).\n\nLas zonas rayadas son marcadores de foto: van reemplazadas por las fotos reales del tráiler."
+      "text": "REEL PAZ-PIN BAÑOS VIP — 9:16, 1080×1920, 25,2 s a 100 BPM\n\nPaleta: azul marino #12356B · azul agua #3FA9DC · verde lima #8CC63F · blanco humo #F4F8FB\nTipografía: Sora (titulares) + Archivo (texto) + Yellowtail (firma Paz-Pin, reemplazar por el logo real).\n\nLas zonas rayadas son marcadores de foto: van reemplazadas por las fotos reales del tráiler."
     },
     {
       "id": "seguridad",
       "x": 700,
       "y": -400,
       "w": 560,
-      "text": "ZONAS SEGURAS DE INSTAGRAM\n\nActiva el interruptor \"guides\" sobre cualquier escena para ver las líneas de corte: 250 px arriba y 420 px abajo quedan tapados por la interfaz de Instagram, así que nada de texto ahí.\n\nApágalo antes de exportar en PNG."
+      "text": "AUDIO — 100 BPM\n\nLos tiempos de cada escena están cuadrados a compases de 2,4 s para que todos los cortes caigan sobre un beat. Total 25,2 s.\n\nLa especificación completa del audio está en reel-instagram-pazpin-banos-vip.md."
     },
     {
       "id": "contacto",
@@ -31,5 +80,7 @@
       "text": "PENDIENTE ANTES DE PUBLICAR\n\nReemplazar [+56 9 XXXX XXXX] y [@TU_USUARIO] en la escena 7 por los datos reales.\n\nEl primer frame del reel es la miniatura del perfil: usa la escena 1 con la foto nocturna, no una pantalla de texto."
     }
   ],
-  "launch": { "view": "canvas" }
+  "launch": {
+    "view": "canvas"
+  }
 }
