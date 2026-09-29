@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Paz-Pin Post 4:5</title>
+<style>
+  @font-face { font-family: 'Montserrat'; font-weight: 100 900; src: url('assets/fonts/montserrat.woff2') format('woff2'); }
+  @font-face { font-family: 'Kaushan Script'; font-weight: 400; src: url('assets/fonts/kaushan-script.woff2') format('woff2'); }
+  :root {
+    --navy: #1b2a78;
+    --water: #3d7fd6;
+    --lime: #8cbf2f;
+    --ink: #14204f;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 1080px; height: 1350px; font-family: 'Montserrat', sans-serif; background: #fff; overflow: hidden; }
+  .ad { position: relative; width: 1080px; height: 1350px; background: #fff; }
+
+  .top {
+    height: 300px; padding: 44px 60px 0;
+    background: linear-gradient(135deg, var(--navy) 0%, #24439e 100%);
+    color: #fff; position: relative;
+  }
+  .brand { display: flex; align-items: baseline; gap: 18px; }
+  .brand .name { font-family: 'Kaushan Script', cursive; font-size: 64px; line-height: 1; }
+  .brand .vip { font-weight: 700; font-size: 30px; color: var(--lime); letter-spacing: 1px; }
+  .top h1 { margin-top: 26px; font-weight: 900; font-size: 58px; line-height: 1.05; letter-spacing: -1px; }
+  .top h1 span { color: var(--lime); }
+
+  .photo {
+    height: 700px;
+    background: url('assets/trailer-vip.jpg') center 58% / cover no-repeat;
+    position: relative;
+  }
+  .photo::after {
+    content: ''; position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(27,42,120,.35) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 80%, rgba(255,255,255,.9) 100%);
+  }
+  .tag {
+    position: absolute; top: 28px; right: 40px; z-index: 2;
+    background: var(--lime); color: var(--ink); font-weight: 800; font-size: 26px;
+    padding: 12px 24px; border-radius: 40px; box-shadow: 0 6px 20px rgba(0,0,0,.3);
+  }
+
+  .bottom { height: 350px; padding: 18px 60px 0; display: flex; gap: 20px; position: relative; }
+  .info { flex: 1; }
+  .list { list-style: none; }
+  .list li { display: flex; align-items: center; gap: 16px; font-size: 29px; font-weight: 700; color: var(--ink); margin-bottom: 18px; }
+  .list li::before {
+    content: '✓'; flex: none; width: 42px; height: 42px; border-radius: 50%;
+    background: var(--water); color: #fff; display: grid; place-items: center; font-size: 26px; font-weight: 900;
+  }
+  .cta {
+    display: inline-flex; flex-direction: column; margin-top: 8px;
+    background: var(--navy); color: #fff; border-radius: 22px; padding: 16px 30px;
+  }
+  .cta b { font-size: 34px; font-weight: 900; }
+  .cta small { font-size: 24px; font-weight: 500; color: #cfe0ff; margin-top: 2px; }
+  .cabin { width: 280px; height: 360px; margin-top: -70px; background: url('assets/bano-quimico.jpg') center / contain no-repeat; mix-blend-mode: multiply; }
+</style>
+</head>
+<body>
+<div class="ad">
+  <div class="top">
+    <div class="brand"><span class="name">Paz - Pin</span><span class="vip">BAÑOS VIP</span></div>
+    <h1>Baños a la altura<br>de <span>tu evento</span></h1>
+  </div>
+
+  <div class="photo"><div class="tag">Tráiler VIP</div></div>
+
+  <div class="bottom">
+    <div class="info">
+      <ul class="list">
+        <li>Tráiler VIP con iluminación LED</li>
+        <li>Baños químicos individuales</li>
+        <li>Eventos, matrimonios y faenas</li>
+      </ul>
+      <div class="cta">
+        <b>¡Cotiza hoy!</b>
+        <small>WhatsApp +56 9 XXXX XXXX</small>
+      </div>
+    </div>
+    <div class="cabin"></div>
+  </div>
+</div>
+</body>
+</html>
