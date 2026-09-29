@@ -23,7 +23,8 @@ En **Paz-Pin Baños VIP** te arrendamos baños a la altura de tu celebración:
 ✅ Tráiler VIP con iluminación LED, cómodo y elegante
 ✅ Baños químicos individuales para cualquier tipo de evento
 ✅ Ideal para matrimonios, conciertos, fiestas, eventos corporativos y faenas
-💍 ¡Promoción! 20% de descuento en matrimonios
+💍 ¡Promoción! 20% de descuento en matrimonios, en todos nuestros servicios.
+Válido hasta el 31 de diciembre de 2026. *Consulta condiciones.
 📍 Cobertura en la Región Metropolitana, V Región y VI Región
 
 📲 Cotiza por WhatsApp: +56 9 6168 8931 (wa.me/56961688931)
