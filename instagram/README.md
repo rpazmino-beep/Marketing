@@ -10,6 +10,7 @@ fuentes en `assets/`. Para cambiar un texto (por ejemplo los datos de contacto),
 HTML y vuelve a generar el PNG con una captura de Chromium/Playwright a ese tamaño.
 
 Contacto: www.pazpin.cl · Instagram @pazpin_sanitarios
+Cobertura: Región Metropolitana, V Región y VI Región
 
 ## Texto de la publicación (caption)
 
@@ -18,10 +19,12 @@ En **Paz-Pin Baños VIP** te arrendamos baños a la altura de tu celebración:
 
 ✅ Tráiler VIP con iluminación LED, cómodo y elegante
 ✅ Baños químicos individuales para cualquier tipo de evento
-✅ Ideal para matrimonios, fiestas, eventos corporativos y faenas
+✅ Ideal para matrimonios, conciertos, fiestas, eventos corporativos y faenas
+📍 Cobertura en la Región Metropolitana, V Región y VI Región
 
 🌐 Cotiza hoy en www.pazpin.cl
 📩 O escríbenos por mensaje directo a @pazpin_sanitarios
 
 #BañosVIP #ArriendoDeBaños #BañosQuímicos #BañosParaEventos #Matrimonios
-#EventosChile #Matrimonio #Faenas #ProducciónDeEventos #PazPin
+#EventosChile #Matrimonio #Faenas #Conciertos #ProducciónDeEventos #RegiónMetropolitana
+#Valparaíso #Rancagua #PazPin
