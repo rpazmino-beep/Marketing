@@ -61,6 +61,11 @@
     border: 3px solid var(--lime); border-radius: 18px; padding: 12px 20px; }
   .zona div { font-weight: 800; font-size: 24px; line-height: 1.25; }
   .zona small { display: block; font-weight: 600; font-size: 18px; color: var(--lime); letter-spacing: 2px; }
+  .side { width: 280px; margin-top: -70px; display: flex; flex-direction: column; align-items: center; }
+  .side .cabin { width: 280px; height: 200px; margin-top: 0; }
+  .qr { margin-top: 6px; display: flex; flex-direction: column; align-items: center; }
+  .qr img { width: 150px; height: 150px; display: block; border: 4px solid var(--lime); border-radius: 14px; padding: 4px; background: #fff; }
+  .qr span { margin-top: 6px; font-size: 19px; font-weight: 800; color: var(--ink); white-space: nowrap; }
 </style>
 </head>
 <body>
@@ -86,7 +91,10 @@
         <small>@pazpin_sanitarios</small>
       </div>
     </div>
-    <div class="cabin"></div>
+    <div class="side">
+      <div class="cabin"></div>
+      <div class="qr"><img src="assets/qr-whatsapp.svg" alt=""><span>WhatsApp +56 9 6168 8931</span></div>
+    </div>
   </div>
 </div>
 </body>

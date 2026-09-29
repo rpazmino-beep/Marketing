@@ -9,7 +9,10 @@ Las fuentes de diseño son `post-4x5.html` e `historia-9x16.html`, con las fotos
 fuentes en `assets/`. Para cambiar un texto (por ejemplo los datos de contacto), edita el
 HTML y vuelve a generar el PNG con una captura de Chromium/Playwright a ese tamaño.
 
-Contacto: www.pazpin.cl · Instagram @pazpin_sanitarios
+Contacto: www.pazpin.cl · Instagram @pazpin_sanitarios · WhatsApp +56 9 6168 8931
+
+El QR (`assets/qr-whatsapp.svg`) abre un chat con https://wa.me/56961688931 con el
+mensaje "Hola, quiero cotizar baños para mi evento".
 Cobertura: Región Metropolitana, V Región y VI Región
 
 ## Texto de la publicación (caption)
@@ -22,7 +25,8 @@ En **Paz-Pin Baños VIP** te arrendamos baños a la altura de tu celebración:
 ✅ Ideal para matrimonios, conciertos, fiestas, eventos corporativos y faenas
 📍 Cobertura en la Región Metropolitana, V Región y VI Región
 
-🌐 Cotiza hoy en www.pazpin.cl
+📲 Cotiza por WhatsApp: +56 9 6168 8931 (wa.me/56961688931)
+🌐 O en www.pazpin.cl
 📩 O escríbenos por mensaje directo a @pazpin_sanitarios
 
 #BañosVIP #ArriendoDeBaños #BañosQuímicos #BañosParaEventos #Matrimonios
